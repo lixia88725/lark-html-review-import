@@ -1,0 +1,7 @@
+interface:
+  display_name: "Lark HTML Review Import"
+  short_description: "Import HTML review tables into Lark Docx."
+  default_prompt: "Use $lark-html-review-import to import this local HTML review report into a Feishu/Lark document with embedded screenshots and videos."
+
+policy:
+  allow_implicit_invocation: true
